@@ -12,6 +12,9 @@ It is multithreaded to differentiate between rendering frames, calculating score
 5. There is a stall-meter, initially its 50% full, its increases in level 0, and decreases in level 1 & 2. if stall-meter hits 0 you lose.
 6. score increases by 1 every 10ms, so get the highest score [ill later add a ending and boss fight].
 
+# Warnings:-
+It may be flagged by Antivirus due to the exe file not being signed.
+
 <div id="toc">
   <ul style="list-style: none">
     <summary>
