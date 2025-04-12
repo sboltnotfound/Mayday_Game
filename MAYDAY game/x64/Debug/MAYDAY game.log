@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(54,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(56,19): warning C4244: 'initializing': conversion from 'float' to '__int64', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(59,19): warning C4244: 'initializing': conversion from 'float' to '__int64', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(60,41): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(60,37): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(60,33): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(60,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(61,41): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(61,37): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(61,33): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(61,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(98,22): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(99,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(100,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(101,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(102,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(103,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(106,20): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(107,20): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(119,48): warning C4244: '=': conversion from 'double' to '_Ty1', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(119,48): warning C4244:         with
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(119,48): warning C4244:         [
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(119,48): warning C4244:             _Ty1=__int64
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(119,48): warning C4244:         ]
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(129,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(361,28): warning C4101: 'cond2': unreferenced local variable
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(585,29): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(585,29): warning C4244:         with
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(585,29): warning C4244:         [
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(585,29): warning C4244:             _Ty1=__int64
+C:\Users\subha\source\repos\MAYDAY game\MAYDAY game\main.cpp(585,29): warning C4244:         ]
+  MAYDAY game.vcxproj -> C:\Users\subha\source\repos\MAYDAY game\x64\Debug\MAYDAY game.exe
